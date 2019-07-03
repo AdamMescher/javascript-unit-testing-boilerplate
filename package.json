@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AdamMescher/javascript-unit-testing-boilerplate/issues"
   },
-  "homepage": "https://github.com/AdamMescher/javascript-unit-testing-boilerplate#readme"
+  "homepage": "https://github.com/AdamMescher/javascript-unit-testing-boilerplate#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
