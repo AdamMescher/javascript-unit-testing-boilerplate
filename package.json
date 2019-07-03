@@ -1,0 +1,19 @@
+{
+  "name": "javascript-unit-testing-boilerplate",
+  "version": "0.0.1",
+  "description": "A simple JavaScript unit testing environment with Mocha, Chai, ESlint, and Git hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamMescher/javascript-unit-testing-boilerplate.git"
+  },
+  "author": "Adam Mescher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamMescher/javascript-unit-testing-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AdamMescher/javascript-unit-testing-boilerplate#readme"
+}
