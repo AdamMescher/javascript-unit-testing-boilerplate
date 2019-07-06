@@ -27,5 +27,5 @@ describe('returnString', () => {
     const expected = '¿cuando?';
     const result = returnString(expected);
     expect(result).to.equal(expected);
-  });
+  })
 });
