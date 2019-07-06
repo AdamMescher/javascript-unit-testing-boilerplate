@@ -4,7 +4,8 @@
   "description": "A simple JavaScript unit testing environment with Mocha, Chai, ESlint, and Git hooks",
   "main": "index.js",
   "scripts": {
-    "test": "node node_modules/.bin/mocha"
+    "test": "node node_modules/.bin/mocha",
+    "lint": "./node_modules/.bin/eslint index.js ./test"
   },
   "repository": {
     "type": "git",
